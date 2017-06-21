@@ -11,7 +11,7 @@ The following python modules are required
 * astropy
 * [pyqtgraph](http://www.pyqtgraph.org/)
 
-## Install
+## Installation
 Change the first line in slide3d.py to the python path on your machine. Place slide3d.py under your PATH. In shell:
 ```
 >>> slid3d.py -c [configuration file] 
