@@ -18,3 +18,11 @@ Change the first line in slide3d.py to the python path on your machine. Place sl
                CUBE_FILE LZIFU_CUBE_FILE (for 1-sided data)
                FILE can be .fits or .fits.gz (slower to launch)
 ```
+## Configuration file
+A template is provided as slide3d.config. The configuration file describes what to display in the 8 subpanels (p1 - p8). The configuration file should following the following format
+```
+# panel (p1 - p8),EXTNAME (from LZIFU LINELIST)
+```
+
+
+For questions, drop an email to iting@mpia.de
