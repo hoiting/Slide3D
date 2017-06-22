@@ -31,4 +31,4 @@ A template is provided as slide3d.config. The configuration file describes what 
 ```
 
 
-For questions, drop an email to iting@mpia.de
+For questions, please drop an email to iting@mpia.de
