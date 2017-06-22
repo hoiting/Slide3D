@@ -7,8 +7,8 @@ Slide3D is a Python tool for visualising the emission line fit produced by LZIFU
 
 ## Dependencies
 The following python modules are required 
-* numpy, scipy
-* astropy
+* [numpy](http://www.numpy.org/), [scipy](https://www.scipy.org/)
+* [astropy](http://www.astropy.org/)
 * [pyqtgraph](http://www.pyqtgraph.org/)
 
 ## Installation
